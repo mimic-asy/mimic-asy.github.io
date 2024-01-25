@@ -22,7 +22,6 @@
 
 スライドパズルを幅優先探索を行って自動で解き、その経路を画像として出力することができる。
 
-.. image:: /image/hakoiri_musumeclear.gif
 
 
 `Github <https://github.com/mimic-asy/HakoiriCpp>`_
@@ -44,7 +43,7 @@
 
 四則演算(+,-,*,/)及び、大小比較(<,>,<=,>=)、等価演算(==,!=)に対応している。
 
-.. image:: /image/Screenshot_2024-01-24_18-27-46.png
+
 
 ===============================
 
